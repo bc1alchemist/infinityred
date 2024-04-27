@@ -2,7 +2,7 @@
   "name": "infinityxred",
   "version": "1.0.0",
   "dependencies": {
-    "next": "^12.0.7", 
+    "next": "^12.0.7"
   },
   "devDependencies": {
   
